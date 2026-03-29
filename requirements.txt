@@ -3,3 +3,4 @@ streamlit
 anthropic
 Pillow
 datasets
+opencv-python-headless
