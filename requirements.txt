@@ -1,6 +1,5 @@
-ultralytics
 streamlit
-anthropic
-Pillow
-datasets
+ultralytics
 opencv-python-headless
+Pillow
+anthropic
